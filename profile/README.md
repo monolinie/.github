@@ -24,8 +24,8 @@ Studio Minsky uses modern, resilient tech stack to ensure speed, stability, and 
 
 ### More info
 
-**Website:** [nenadstudio.com](https://nenadstudio.com)
+**Website:** [nenad.studio](https://nenad.studio)
 
-**Inquiries:** hello@nenadstudio.com
+**Inquiries:** hello@nenad.studio
 
 Let's discuss how we can bring your next vision to life.
