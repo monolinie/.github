@@ -1,6 +1,4 @@
-# <img src="/logo.svg" width="25" alt="Nenad Studio Logo"> Nenad Studio
-
-Professional web development agency dedicated to building high-performance, scalable web solutions.
+Professional web development studio dedicated to building high-performance, scalable web solutions.
 Based in Vienna, Austria.
 
 ### Core Services & Expertise
@@ -11,9 +9,7 @@ Based in Vienna, Austria.
 * **UI/UX Design:** Creating intuitive, engaging, and accessible user experiences.
 * **API & Integration:** Building and connecting proprietary and third-party services.
 
-### Our Technology Foundation
-
-Studio Minsky uses modern, resilient tech stack to ensure speed, stability, and scalability for every client project.
+### Technology Foundation
 
 | Category | Technologies |
 | :--- | :--- |
@@ -24,8 +20,8 @@ Studio Minsky uses modern, resilient tech stack to ensure speed, stability, and 
 
 ### More info
 
-**Website:** [nenad.studio](https://nenad.studio)
+**Website:** [monolinie.com](https://monolinie.com)
 
-**Inquiries:** hello@nenad.studio
+**Inquiries:** hello@monolinie.com
 
 Let's discuss how we can bring your next vision to life.
