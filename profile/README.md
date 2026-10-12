@@ -1,4 +1,4 @@
-Professional web development studio dedicated to building high-performance, scalable web solutions.
+Professional software studio dedicated to building high-performance, scalable web solutions.
 Based in Vienna, Austria.
 
 ### Core Services & Expertise
